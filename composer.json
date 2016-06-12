@@ -1,0 +1,19 @@
+{
+    "name": "leadBoard/leadBoard",
+    "type": "library",
+    "description": "LeadBoard php-sdk for Phalcon",
+    "keywords": ["leadBoard","phalcon"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shmakov Evgeny", 
+            "email": "sjs-master@yandex.ru", 
+            "homepage": "http://allmax.team",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+		"ext-phalcon": "^2.0"
+    }
+}
