@@ -1,5 +1,5 @@
 {
-    "name": "leadBoard/leadBoard",
+    "name": "lead-board/lead-board",
     "type": "library",
     "description": "LeadBoard php-sdk for Phalcon",
     "keywords": ["leadBoard","phalcon"],
